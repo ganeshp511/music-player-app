@@ -1,21 +1,7 @@
 # music-player-app
 This is simple music player android app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="250" alt="playSong" src="https://user-images.githubusercontent.com/63589114/201461720-13135218-af75-4663-b505-cedb72554dd9.png">
+<img width="249" alt="MainActivity" src="https://user-images.githubusercontent.com/63589114/201461721-f86c4201-88d8-4ec0-810a-4abb9fcbbe20.png">
 
 - add external storage permission in manifest
 - in build.gradle of app add dependency of dexter library for runtime permission
